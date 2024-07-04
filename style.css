@@ -1,0 +1,12 @@
+*{
+    margin:0px;
+    padding:2px;
+    border:5px;
+    box-shadow: 10px;
+    
+}
+.same{
+    color:blue;
+    font-size: large;
+    font-style: italic;
+}
